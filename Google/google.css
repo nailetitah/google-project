@@ -29,6 +29,9 @@ div {
     font-family: Arial;
     font-size: small;
 }
+.menu-link:hover {
+    text-decoration: underline;
+}
 a.image-link {
     background-position: -132px -38px;
     background-image: url(bloc-carre.png);
