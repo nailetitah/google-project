@@ -144,3 +144,6 @@ a.footer-items-style {
     text-decoration: none;
     color: #5f6368;
 }
+a.footer-items-style:hover {
+    text-decoration: underline;
+}
